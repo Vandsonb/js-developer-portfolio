@@ -9,16 +9,16 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/Vandsonb/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/Vandsonb/js-developer-portfolio/main/data/imgs/angular.png"
       },
 
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/Vandsonb/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
